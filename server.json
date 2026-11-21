@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.steadyscrape/company-data",
+  "title": "SteadyScrape Company Data",
+  "description": "Company profiles from their websites, sites using a technology, hiring trends. Read-only.",
+  "version": "1.0.0",
+  "websiteUrl": "https://mcp.steadyscrape.dev/company",
+  "repository": {
+    "url": "https://github.com/steadyscrape/company-data-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.steadyscrape.dev/company/mcp"
+    }
+  ]
+}
