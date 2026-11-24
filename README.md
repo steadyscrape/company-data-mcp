@@ -1,5 +1,7 @@
 # Company Data MCP (SteadyScrape)
 
+[![dev.steadyscrape/company-data MCP connector](https://glama.ai/mcp/connectors/dev.steadyscrape/company-data/badges/score.svg)](https://glama.ai/mcp/connectors/dev.steadyscrape/company-data)
+
 A remote MCP server for company research: company profiles read from their public websites, lists of sites that use a named technology, and hiring summaries from public career boards.
 
 **Endpoint (Streamable HTTP):**
